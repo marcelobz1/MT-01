@@ -1,0 +1,4 @@
+Business_Model,Initial_Investment_EUR,Annual_Revenue_EUR,Annual_Costs_EUR,Net_Profit_EUR,ROI_Percentage,Payback_Months
+Small_Operation_1_Van,50000,80000,55000,25000,50,24
+Medium_Operation_5_Vans,200000,400000,280000,120000,60,20
+Large_Operation_10_Vans,350000,700000,490000,210000,60,20

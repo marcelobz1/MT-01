@@ -1,0 +1,8 @@
+Component,Min_Cost_EUR,Max_Cost_EUR,Per_Van
+Vehicle_Acquisition,25000,40000,True
+Insurance_Annual,3000,10000,True
+Technology_Setup,3000,8000,False
+Licenses_Permits,500,2500,False
+Initial_Inventory,2000,10000,False
+Marketing_Branding,2500,7500,False
+Working_Capital,5000,15000,False
